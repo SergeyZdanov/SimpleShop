@@ -1,0 +1,10 @@
+## C# ##
+*.suo
+*.user
+*.cache
+*.pdb
+*.exe
+*.dll
+bin/
+obj/
+.vs/
